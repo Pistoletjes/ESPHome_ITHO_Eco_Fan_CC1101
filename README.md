@@ -1,3 +1,8 @@
+# My First Fork: 
+implementing the "> 2011" modifications in this fork
+
+
+
 # ESPHome ITHO CVE ECO-FAN 2 control
 Library for NodeMCU ESP8266 in combination with Hassio Home Assistant ESPHome ITHO Eco Fan CC1101
 Code is optimized for Itho CVE Eco-fan 2. For newer fans, please see the IthoCC1101.cpp file and search for "> 2011" and make the changes as described.
